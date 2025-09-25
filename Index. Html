@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vita Elegant - Фуршетний кейтеринг у Лондоні</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Arial', sans-serif; }
+        body { background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); color: #333; line-height: 1.6; padding: 20px; }
+        .container { max-width: 800px; margin: 0 auto; background: white; border-radius: 15px; padding: 30px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); }
+        header { text-align: center; margin-bottom: 30px; }
+        h1 { color: #8B4513; margin-bottom: 10px; }
+        .category { margin-bottom: 25px; border-left: 4px solid #D2691E; padding-left: 15px; }
+        .item { display: flex; justify-content: space-between; margin: 10px 0; padding: 8px; background: #f8f9fa; border-radius: 5px; }
+        .contact { text-align: center; margin-top: 30px; padding: 20px; background: #8B4513; color: white; border-radius: 10px; }
+        .btn { display: inline-block; background: #FFD700; color: #8B4513; padding: 12px 25px; border-radius: 25px; text-decoration: none; margin: 10px; font-weight: bold; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🍽️ Vita Elegant Catering</h1>
+            <p>Фуршетний кейтеринг у Лондоні</p>
+        </header>
+
+        <div class="category">
+            <h2>🥞 Сирники, Налисники, Деруни</h2>
+            <div class="item"><span>Сирники класичні з родзинками</span><span>17£</span></div>
+            <div class="item"><span>Сирники з маком</span><
